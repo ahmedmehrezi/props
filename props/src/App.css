@@ -1,0 +1,40 @@
+.opp{
+    margin-left: 16%;
+    padding: auto;
+}
+.op{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    margin-top: 400px;  
+}
+.op2{
+    padding-left: 100px;
+    margin: 20px;
+    margin-top: 62px;
+    
+}
+.img{
+    height: 200px;
+    border-radius: 150px;
+    margin-left: 30px ;
+    border: 1px solid;
+}
+.img2p{
+    text-align: center;
+    position: absolute;
+}
+.img2{
+    height: 500px;
+    width: 1000px;
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.btn1{
+    height: 50px ;
+    width: 150px;
+    margin-left:300px;
+    margin-top: 11%;
+    border-radius: 10px;
+    border: 1px solid;
+}
